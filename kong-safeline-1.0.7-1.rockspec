@@ -1,7 +1,7 @@
 package = "kong-safeline"
-version = "1.0.6-1"
+version = "1.0.7-1"
 source = {
-   url = "git://github.com/xbingW/kong-safeline.git",
+   url = "git://github.com/chaitin/kong-safeline.git",
 }
 description = {
    summary = "Kong plugin for Chaitin SafeLine Web Application Firewall",
